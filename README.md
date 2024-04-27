@@ -23,7 +23,7 @@ The dataset is organized into the following folders:
 7. **Datasheet**: Contains detailed information about the dataset, including its collection, usage, and other relevant details.
 8. **Datasheet-EDS.ipynb**: Jupyter notebook containing exploratory data analysis (EDA) of the dataset.
 
-## **Each stock entry encompasses over 130 fundamental and hybrid features, with names aligned precisely with their counterparts in financial dictionaries. Due to the large number of variables, it is not feasible to describe each one individually here. However, in the EDA notebook, a selection of these features has been briefly explained, offering insights into their relevance and interpretation.**
+### **Each stock entry encompasses over 130 fundamental and hybrid features, with names aligned precisely with their counterparts in financial dictionaries. Due to the large number of variables, it is not feasible to describe each one individually here. However, in the EDA notebook, a selection of these features has been briefly explained, offering insights into their relevance and interpretation.**
 
 
 ## Licensing
